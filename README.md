@@ -2,4 +2,8 @@ Zadanie jest następujące: Napisać logikę do search service, która będzie z
 
 swapi obsługuje query parameter "search" oraz "page"
 
-Pożądane cechy serwisu są następujące: - powinien wykonywać możliwie jak najmniej requestów - ładowanie kolejnych wyników powinno wyświetlać sumę poprzednich i obecnych wyników - całość powinna być napisana możliwie w jak największym stopniu przy pomocy rxjs - search powinien obsługiwać błędy w odpowiedzi od serwera - kod powinien być czysty i reusable
+Pożądane cechy serwisu są następujące:
+- powinien wykonywać możliwie jak najmniej requestów
+- ładowanie kolejnych wyników powinno wyświetlać sumę poprzednich i obecnych wyników
+- całość powinna być napisana możliwie w jak największym stopniu przy pomocy rxjs
+- search powinien obsługiwać błędy w odpowiedzi od serwera - kod powinien być czysty i reusable
