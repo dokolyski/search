@@ -6,6 +6,5 @@ const URL_BASE = 'https://swapi.dev/api/';
 	providedIn: 'root',
 })
 export class SearchService {
-	// Ten observable powinien zwracać wyniki wyszukiwania
 	constructor() {}
 }
